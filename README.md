@@ -1,146 +1,105 @@
-# TalentForgeAI
-AI Career Intelligence Platform
 # 🚀 TalentForge AI
 
-An AI-powered Career Intelligence Platform that helps students and job seekers analyze resumes, prepare for interviews, learn technical skills, and track readiness for top companies.
+##  AI-Powered Career Intelligence Platform
+
+TalentForge AI is an all-in-one AI career development platform that helps students and job seekers become industry-ready by combining resume analysis, interview preparation, skill learning, and company readiness tracking in one place.
+
+---
 
 ## 🌟 Features
 
 ###  AI Resume Analyzer
 
-* Upload Resume (PDF)
-* Extract Resume Content
-* Identify Skills
-* Find Missing Skills
-* ATS Score Analysis
-* Personalized Improvement Suggestions
+* Upload resume (PDF)
+* AI-based resume evaluation
+* ATS score analysis
+* Skill gap detection
+* Personalized improvement suggestions
+
+---
 
 ###  Career Roadmap Generator
 
-* Select Target Role
-* Generate Learning Roadmap
-* Skill-Based Growth Plan
-* Career Progress Tracking
+* Select target job role
+* Get AI-generated roadmap
+* Step-by-step learning path
 
-###  AI Mock Interview
+---
 
-* Role-Based Interview Questions
-* Text-Based Interview Simulation
-* Performance Feedback
-* Strength & Weakness Analysis
-* Improvement Recommendations
+###  AI Mock Interview System
+
+* Role-based interview questions
+* Performance feedback
+* Strength & weakness analysis
+* Improvement suggestions
+
+---
 
 ###  AI Learning Hub
 
-Supports:
+* Learn Python, Java, C, C++, SQL
+* Topic-wise structured learning
+* AI doubt solver
+* Interactive quizzes
 
-* Python
-* Java
-* C
-* C++
-* SQL
-
-Features:
-
-* Topic-wise Notes
-* Beginner-Friendly Learning
-* AI Doubt Solver
-* Interactive Quiz System
+---
 
 ### 🏆 Target Company Tracker
 
-Check your readiness for:
-
-* Google
-* Amazon
-* Microsoft
-
-Provides:
-
-* Readiness Score
-* Skill Gap Analysis
-* Improvement Suggestions
-* Personalized Preparation Guidance
+* Google / Amazon / Microsoft readiness
+* Skill gap analysis
+* Preparation roadmap
 
 ---
 
 ##  Tech Stack
 
-### Frontend
-
 * Streamlit
-
-### AI Integration
-
-* OpenRouter API
-* DeepSeek Chat Model
-
-### Backend
-
 * Python
-
-### Libraries Used
-
-* Streamlit
-* OpenAI
-* PDFPlumber
-* Pandas
-* NumPy
+* OpenRouter / OpenAI API
+* Pandas, NumPy
 * Plotly
-* Python-Dotenv
+* PDF Processing Libraries
 
 ---
 
-##  Project Structure
+##  Problem Solved
 
-TalentForgeAI/
+Students usually struggle with:
 
-├── app.py
+* Resume preparation
+* Interview practice
+* Structured learning
+* Career guidance
 
-├── agents/
-
-├── pages/
-
-├── utils/
-
-├── requirements.txt
-
-└── README.md
+TalentForge AI solves all of this in ONE platform.
 
 ---
 
-##  Target Users
+## 🚀 Live Demo
 
-* Students
-* Freshers
-* Internship Seekers
-* Job Applicants
-* Career Switchers
+https://talentforge-ai.streamlit.app/
 
 ---
 
-##  Future Enhancements
+## 🎥 Demo Video
 
-* Voice-Based Interview Mode
-* AI Recruiter Verdict Card
-* Resume Comparison
-* Portfolio Analysis
-* Company-Specific Mock Interviews
-
+https://youtu.be/WvfAAJXDtwA?si=bwDabvHRLM6lUQhL
 
 ---
 
 ## 👩‍💻 Developed By
 
-Shashi 
-
+Shashi
 B.Tech CSE (AI & ML)
-
-Passionate about AI, Career Technology, and Student Empowerment.
 
 ---
 
-## ⭐ Project Vision
+## ⭐ Future Scope
 
-TalentForge AI aims to bridge the gap between learning and employability by providing AI-powered career guidance, interview preparation, resume analysis, and skill development on a single platform.
+* Voice Interview System
+* AI Career Mentor Chatbot
+* Real-time Interview Simulation
+* Job Matching System
+
 
